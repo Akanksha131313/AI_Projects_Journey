@@ -9,8 +9,8 @@ Each folder represents a separate project implemented during my learning journey
 
 | Project Name | Description |
 |---------------|-------------|
-| [ANN_Implementation](./ANN_Implementation) | Implementation of a basic Artificial Neural Network (ANN) model using Python and TensorFlow/Keras |
-| [CNN_CIFAR10](./CNN_CIFAR10) | Image classification on CIFAR-10 dataset using Convolutional Neural Networks (CNN) |
+| [ANN_Implementation](./ANN_Implementation.ipynb) | Implementation of a basic Artificial Neural Network (ANN) model using Python and TensorFlow/Keras |
+| [CNN_CIFAR10](./CNN_CIFAR10.ipynb) | Image classification on CIFAR-10 dataset using Convolutional Neural Networks (CNN) |
 
 ## 🚀 Technologies Used
 - Python  
