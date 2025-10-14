@@ -6,8 +6,10 @@ Techniques covered include:
 
 - 📝 **Tokenization** (sentence & word level)  
 - 🔹 **Stemming** using **Porter Stemmer**  
-- 🔹 **Lemmatization** using **WordNet Lemmatizer**  
-- ❌ **Stopwords Removal**  
+- 🔹 **Lemmatization** using **WordNet Lemmatizer**
+- ❌ **Stopwords Removal**
+- 🔹 **Bag-Of-Words(BOW)**
+- 🔹 **TF-IDF**
 - 📊 **Bag-of-Words Feature Extraction**  
 
 ---
