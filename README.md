@@ -11,7 +11,7 @@ Each folder represents a separate project implemented during my learning journey
 |---------------|-------------|
 | [ANN_Implementation](./01_ANN_Practical_Implementation.ipynb)  | Implementation of a basic Artificial Neural Network (ANN) model using Python and TensorFlow/Keras |
 | [CNN_CIFAR10](./CNN_CIFAR10.ipynb) . | Image classification on CIFAR-10 dataset using Convolutional Neural Networks (CNN) |
-| [Natural Language Processing (NLP)](NLP/README.md) |  Project focused on text processing tasks including tokenization, stopwords removal, and lemmatization. Detailed steps and explanations available in the folder.
+| [Natural Language Processing (NLP)(03_NLP.ipynb)] |  Project focused on text processing tasks including tokenization, stopwords removal, and lemmatization. Detailed steps and explanations available in the folder.
 
 ## 🚀 Technologies Used
 - Python  
