@@ -1,0 +1,28 @@
+Project Overview:
+This project is a simple SMS spam classifier that detects whether a message is spam or ham (not spam). It uses text preprocessing and Machine Learning techniques to analyze and classify messages.
+
+✨ Features
+
+Clean and preprocess SMS text
+
+Convert text into features using Bag of Words or TF-IDF
+
+Train a Naive Bayes model to classify messages
+
+Evaluate using accuracy, precision, recall, and F1-score
+
+📊 Example Results
+
+Accuracy: ~98%
+
+Spam Detection: High precision and recall
+
+⚡ How to Use
+
+Load the dataset (SMSSpamCollection).
+
+Preprocess messages (clean text, remove stopwords, lemmatize).
+
+Train the Naive Bayes model.
+
+Test with new messages for prediction.
