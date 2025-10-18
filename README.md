@@ -13,6 +13,7 @@ Each folder represents a separate project implemented during my learning journey
 | [CNN_CIFAR10](./02_CNN_CIFAR10_Dataset.ipynb) . | Image classification on CIFAR-10 dataset using Convolutional Neural Networks (CNN) |
 | [Natural Language Processing (NLP)](./03_NLP.ipynb) |  Project focused on text processing tasks including tokenization, stopwords removal, lemmatization , BOW & TF-IDF. Detailed steps and explanations available in the folder.
 | [NLP-2 , 05/Word_Embedding_Techniques](./Word_Embedding_Techniques.ipynb)|Implementation of various Word Embedding techniques using Keras — from One-Hot Encoding to dense vector representations.
+| [NLP-3](./06_LSTM_Practical_Implementation.ipynb)| Fake News Detection using LSTM | Deep Learning-based text classification model that detects fake vs. real news headlines with word embeddings and sequence modeling.
 
 ## 🚀 Technologies Used
 - Python  
