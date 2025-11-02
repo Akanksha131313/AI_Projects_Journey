@@ -17,6 +17,7 @@ Each folder represents a separate project implemented during my learning journey
 | [NLP-4 -> Bidirectional_LSTM](./06_LSTM_Practical_Implementation.ipynb)| Fake News Detection using Bidirectional LSTM | Achieved 86% accuracy by capturing forward & backward context from text for smarter classification.
 | [FCNN_FashionMNIST](./07_FCNN_Fashion-MNIST.ipynb) | Fashion MNIST classification using a Fully Connected Neural Network (FCNN). Achieved 84.33% accuracy with SGD optimizer, categorical cross-entropy loss, and dropout regularization. Visualized dataset distribution, normalized pixel values, and plotted training-validation performance graphs. |
 |[FashionMNIST_PostModelling](./08_Fashion-MNIST_Post-Modelling.ipynb) | Fashion MNIST Post Modelling using Fully Connected Neural Network — includes TensorBoard visualization, evaluation, and model saving/loading.
+| ([Cat vs Dog Classifier built with VGG16 and Transfer Learning](./09_VGG16_Cats_vs_Dogs_TransferLearning.ipynb) |Transfer Learning using VGG16 for Cat vs Dog Image Classification — achieved ~91% accuracy.
 
 ## 🚀 Technologies Used
 - Python  
