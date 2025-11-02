@@ -15,6 +15,7 @@ Each folder represents a separate project implemented during my learning journey
 | [NLP-2 -> Word2vec & Avgword2vec](./04_NLP_Word2Vec_&_AvgWord2Vec.ipynb) | Word Embedding Techniques using Word2Vec & Average Word2Vec | Transforming text into meaningful numeric vectors for smarter NLP understanding.
 | [NLP-3 -> Word_Embedding_Techniques](./05_Word_Embedding_Techniques.ipynb)|Implementation of various Word Embedding techniques using Keras — from One-Hot Encoding to dense vector representations.
 | [NLP-4 -> Bidirectional_LSTM](./06_LSTM_Practical_Implementation.ipynb)| Fake News Detection using Bidirectional LSTM | Achieved 86% accuracy by capturing forward & backward context from text for smarter classification.
+| [FCNN_FashionMNIST](./07_FCNN_Fashion-MNIST.ipynb) | Fashion MNIST classification using a Fully Connected Neural Network (FCNN). Achieved 84.33% accuracy with SGD optimizer, categorical cross-entropy loss, and dropout regularization. Visualized dataset distribution, normalized pixel values, and plotted training-validation performance graphs. |
 
 ## 🚀 Technologies Used
 - Python  
